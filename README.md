@@ -4,7 +4,7 @@ Hi there 👋, I'm Aniket!
 🔭 Working on Machine Learning and Deep Learning projects
 🌱 Learning Python, TensorFlow, and Data Visualization
 💬 Ask me about AI/ML, Data Analysis, and Data Science tools
-📫 Reach me at: your.email@example.com
+📫 Reach me at: gunjalaniket88@gmail.com
 
 
 ---
